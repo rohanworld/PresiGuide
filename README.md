@@ -1,0 +1,9 @@
+Title: PresiGuide
+Emoji: 🤖
+ColorFrom: red
+ColorTo: blue
+SDK: gradio
+SDK_Version: 4.21.0
+App_File: app.py
+Pinned: false
+License: MIT
