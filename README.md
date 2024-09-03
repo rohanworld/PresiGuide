@@ -1,9 +1,5 @@
-Title: PresiGuide
-Emoji: 🤖
-ColorFrom: red
-ColorTo: blue
-SDK: gradio
-SDK_Version: 4.21.0
-App_File: app.py
-Pinned: false
-License: MIT
+# PresiGuide
+
+**PresiGuide** is a smart chatbot for Presidency University that provides instant, accurate information from the student handbook and more.
+
+🚀 **Check out the live demo on Hugging Face:** [PresiGuide Demo](https://huggingface.co/spaces/malleshcn/PresiGuide)
